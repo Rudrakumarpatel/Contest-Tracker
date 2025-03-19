@@ -81,7 +81,7 @@ Contest Tracker is a web application that helps users track upcoming coding cont
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/contest-tracker.git
+   git clone https://github.com/Rudrakumarpatel/Contest-Tracker/tree/main
    ```
 2. Navigate to the backend folder:
    ```sh
