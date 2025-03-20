@@ -11,10 +11,6 @@ Contest Tracker is a web application that helps users track upcoming coding cont
 - Retrieves relevant YouTube videos for contests
 - User-friendly interface with dark mode support
 
-## 🔗 Live Demo
-
-[Coming Soon]
-
 ## 🛠 Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS
